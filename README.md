@@ -1,0 +1,2 @@
+# MurderMystery
+Plugin murdermystery
